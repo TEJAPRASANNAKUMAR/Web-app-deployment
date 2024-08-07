@@ -1,4 +1,6 @@
 # Automated Web-application-deployment
+# objective:
+Automate the deployment of a web application using Jenkins, Docker, and AWS. The pipeline will include stages for building, testing, and deploying the application.
 # Description:
 "The Automated Web Application Deployment project demonstrates the use of modern DevOps practices to enhance the efficiency and reliability of deploying web applications. By automating the build and deployment processes, developers can focus more on writing code and less on managing infrastructure, resulting in faster release cycles and improved software quality."
 # Benefits:
